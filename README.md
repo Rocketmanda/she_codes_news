@@ -28,13 +28,13 @@ This Project is a news site with user articles. It focused on Django and also us
   - ![ Screenshot of news articles in published date order ](screenshots/stories_by_date.png)
 
   - [X] Log-in/log-out: Is no longer accepting my initial user passwords
-  - ![ Screenshot of login option ] (screenshots/user_login_screen.png)
+  - ![ Screenshot of login option ](screenshots/user_login_screen.png)
     
    - [X] "Log-in" button only visible when no user is logged in/"Log-out" buttononly visible when a user *is* logged in: Per above comments, original passwords no longer working. Somewhere along the way this stopped working but I did have it at one stage!
-- ![ Screenshot of login] (screenshots/user_login_screen.png)
+- ![ Screenshot of login](screenshots/user_login_screen.png)
 
 - [X] "Create Story" functionality only available when user is logged in: Tweaked code and now it shows for all users (whether logged in or not)
-- ![ Screenshot of 'write new story' form ] (screenshots/write_new_story.png)
+- ![ Screenshot of 'write new story' form ](screenshots/write_new_story.png)
   
 - [ ] Styled "new story" form
 - ![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
