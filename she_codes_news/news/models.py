@@ -10,3 +10,6 @@ class NewsStory(models.Model):
     )
     pub_date = models.DateTimeField()
     content = models.TextField()
+
+class Meta:
+        ordering = ['-pub_date']
