@@ -18,7 +18,7 @@ This Project is a news site with user articles. It focused on Django and also us
   - `cd she_codes_news` to navigate to where manage.py file is contained
   - `python3 manage.py migrate` to make migrations
   - `python3 manage.py loaddata users` then `python3 manage.py loaddata news` to load the data for the articles
-  - `python3 manage.py runserver` to run the server (or jog)
+  - `python3 manage.py runserver` to run the server
 
   4. View the She Codes News site: http://localhost:8000/news
 
